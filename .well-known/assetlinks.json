@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.rattletech.lotus",
+    "sha256_cert_fingerprints":
+    ["DD:5F:42:30:67:2E:05:F7:E3:2D:E7:DB:37:E1:BA:77:DE:4B:11:8A:D7:32:38:C3:43:A5:25:09:2A:65:EE:BC"]
+  }
+}]
